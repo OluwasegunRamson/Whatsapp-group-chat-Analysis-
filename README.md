@@ -39,8 +39,8 @@ I would like to extend my gratitude to all participants amd most especially the 
 ## References:
 
 -[Microsoft Excel](https://www.microsoft.com/en-us/microsoft-365/excel)
--[Notepad] (https://support.microsoft.com/en-us/windows/take-notes-in-notepad-026f8b3a-d811-7b50-65cf-86b8d4cb77f5)
--[Power Query] (https://powerquery.microsoft.com/en-us/)
--[Power BI] (https://powerbi.microsoft.com/en-us/)
+-[Notepad](https://support.microsoft.com/en-us/windows/take-notes-in-notepad-026f8b3a-d811-7b50-65cf-86b8d4cb77f5)
+-[Power Query](https://powerquery.microsoft.com/en-us/)
+-[Power BI](https://powerbi.microsoft.com/en-us/)
 
 
