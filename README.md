@@ -25,7 +25,7 @@ Key visualizations included:
 -Time series analysis of message volume and activity trends.
 -Distribution of messages by participant and Days of the week
 -Word cloud analysis to highlight frequently used words and topics of discussion.
-
+[Click here to view dashboard)(https://github.com/OluwasegunRamson/Whatsapp-group-chat-Analysis-/blob/main/515D017F-3903-48AC-8B2E-62FA12AE4AAB.jpeg)
 ## Insights and Findings
 Through our analysis, several notable insights and findings were uncovered:
 
